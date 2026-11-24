@@ -1,0 +1,4 @@
+interface:
+  display_name: "guangyu-video-perception（视频内容感知）"
+  short_description: "当用户提供视频文件（.mp4、.mov、.avi、.mkv、.webm）、YouTube链接，要求观看、分析或审查视频，或在"
+  default_prompt: "使用 $guangyu-video-perception，根据我提供的素材完成视频内容感知任务。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "guangyu-compress-image（图片压缩）"
+  short_description: "压缩图片并自动选择工具，默认输出WebP，也支持PNG与JPEG。当用户要求压缩、优化图片、转WebP或减少文件体积时使用。"
+  default_prompt: "使用 $guangyu-compress-image，根据我提供的素材完成图片压缩任务。"

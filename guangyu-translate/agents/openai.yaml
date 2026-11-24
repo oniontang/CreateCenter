@@ -1,0 +1,4 @@
+interface:
+  display_name: "guangyu-translate（内容翻译）"
+  short_description: "翻译文章、资料或文案，支持快速、普通、精细三种模式与自定义术语表。用户要求翻译、快翻、精翻、本地化、校对译文，或提供URL/"
+  default_prompt: "使用 $guangyu-translate，根据我提供的素材完成内容翻译任务。"

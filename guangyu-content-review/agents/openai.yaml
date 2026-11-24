@@ -1,0 +1,4 @@
+interface:
+  display_name: "guangyu-content-review（内容反馈复盘）"
+  short_description: "结合真实作品、同口径数据和评论复盘，记录取舍并设计下一条内容实验"
+  default_prompt: "使用 $guangyu-content-review，基于我提供的发布版本、数据和评论做复盘，区分观察与原因假设。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "guangyu-restore（恢复创作）"
+  short_description: "读取当前或指定项目的创作存档，核对版本并等待用户确认从哪里继续"
+  default_prompt: "使用 $guangyu-restore，恢复这个项目最近的创作存档，先展示状态，不自动改稿。"

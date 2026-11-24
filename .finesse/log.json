@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2026-11-15",
+    "file": "内容创作闭环.html",
+    "register": "brand",
+    "axes": { "A": "phosphor-green-on-ink", "B": "800sans/400body/mono-slug", "C": "console-index+pipeline+rail", "D": "CSS-only", "E": "skill-terminal" },
+    "dials": { "SOUL": 7, "SPECTACLE": 3, "DENSITY": 7 },
+    "note": "Redesign of moyu light-blue classroom page into guangyu dark skill-console; removed 315KB unused embedded fonts; all skill prefixes moyu->guangyu; content always visible (no scroll-hide)."
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "guangyu-image-gen（图像生成）"
+  short_description: "通过OpenAI、Azure OpenAI、Google、OpenRouter、DashScope、Z.AI、MiniMax"
+  default_prompt: "使用 $guangyu-image-gen，根据我提供的素材完成图像生成任务。"

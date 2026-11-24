@@ -1,0 +1,4 @@
+interface:
+  display_name: "guangyu-save（创作存档）"
+  short_description: "保存材料卡、稿件版本、关键判断与用户取舍理由，记录确认过的下一步"
+  default_prompt: "使用 $guangyu-save，保存本次已确认的最终稿、材料卡、关键修改及我的取舍理由。"

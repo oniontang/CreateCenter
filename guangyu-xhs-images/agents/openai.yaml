@@ -1,0 +1,4 @@
+interface:
+  display_name: "guangyu-xhs-images（系列图文卡片）"
+  short_description: "把内容拆成1—10张适合社交平台的图文卡片，支持12种视觉风格、8种布局与3种配色。用户要求小红书图片、微信图文/贴图、图片"
+  default_prompt: "使用 $guangyu-xhs-images，根据我提供的素材完成系列图文卡片任务。"
